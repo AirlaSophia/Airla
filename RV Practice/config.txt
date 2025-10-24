@@ -1,0 +1,2 @@
+git config --global user.name "Airla"
+git config --global user.email "airlasophia@gmail.com"
